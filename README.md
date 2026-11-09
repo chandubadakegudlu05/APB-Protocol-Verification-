@@ -197,8 +197,9 @@ apb-slave-design-verification/
 │   └── testbench.sv
 │
 ├── output/
-│   ├── sim_output.log
-│   └── waveform.png
+│   ├── apb_output.png
+|   ├── apb_coverage_report.png
+│   └── apb_waveform.png
 │
 └── README.md
 ```
